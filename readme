@@ -1,4 +1,4 @@
-This notebook contain notes of neural network classification using tensor flow
+This notebook contain notes of neural network classification using tensorflow and sklearn
  *key-highlights*
  1-> Types of classfications : i. Binary ii. Multiclass iii. Multilable
  2-> creating and evaluating models in order to improve it and get desired result
