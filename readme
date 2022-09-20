@@ -1,1 +1,4 @@
-This are my notes of classification with tensoflow
+This notebook contain notes of neural network classification using tensor flow
+ *key-highlights*
+ 1-> Types of classfications : i. Binary ii. Multiclass iii. Multilable
+ 2-> creating and evaluating models in order to improve it and get desired result
